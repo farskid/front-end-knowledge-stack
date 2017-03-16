@@ -13,7 +13,7 @@ Front end developers use HTML, CSS, and JavaScript to code the website and web a
 I’ve combed through dozens of front end developer job listings to see which skills are the most in-demand right now. These are the things that real employers are looking for in job applicants today.
 
 ### HTML & CSS
-What should you know about HTMl? Do you think HTML is easy? Remember the majority of taks are based on HTML knowledge. 
+What should you know about HTMl? Do you think HTML is easy? Remember the majority of taks are based on HTML knowledge.
 
  - HTML 5 differences vs HTML 4
  - HTML 5 APIs
@@ -36,11 +36,10 @@ What should you know about HTMl? Do you think HTML is easy? Remember the majorit
  - Shadow DOM
  - Position relative, fixed and absolute
  - :before and :after
- - CSS Sprites 
+ - CSS Sprites
  - CSS with OOCSS, SMACSS, and BEM
 
-
- ### JavaScript
+### JavaScript
 ES5, ES6 and ES7 are important. Learn how to code with VanilaJs.
 
  - Closure
@@ -53,7 +52,7 @@ ES5, ES6 and ES7 are important. Learn how to code with VanilaJs.
  - Inheritance
  - Prototype
  - ES6 new features
- - Arguments 
+ - Arguments
  - Asychronous Programming ( Promise, Async/Await )
  - JSON and Objects
  - Arrow Functions
@@ -63,7 +62,7 @@ ES5, ES6 and ES7 are important. Learn how to code with VanilaJs.
  - Generators
  - Symbol
  - Loops
- - What is Array? 
+ - What is Array?
  - Self-invoking
  - Inspector of chrome/firefox , debugger and console.log
  - XMLHttpRequest
@@ -76,43 +75,24 @@ ES5, ES6 and ES7 are important. Learn how to code with VanilaJs.
  - SetTimeout
  - Date/Math
 
- ### jQuery
+### jQuery
 First you should know jQuery but you also know that you shouldn't use it
 
- - sasasa
+ - $
+ - On method
+ - Ajax
+ - JQuery popular libraries
+ - JQuery UI
 
 ### JavaScript Frameworks
-First you should know jQuery but you also know that you shouldn't use it
-
- - sasasa
-
- ### jQuery
-First you should know jQuery but you also know that you shouldn't use it
-
- - sasasa
-
- ### jQuery
-First you should know jQuery but you also know that you shouldn't use it
-
- - sasasa
-
-
-
-TypeScript/Dart/Elm
-Testing TDD/ BDD
-Version Controls GIT
-Problem SOlving
-React Native/ Cordova ?
-
-- Functional Programming
- Regular Expressions
- How Browser works?
- RESTful Services and APIs
- GraphQL
- 
-
-
-
- - 
-
-Source: http://learn.shayhowe.com/advanced-html-css/
+### TypeScript/Dart/Elm
+### Testing TDD/ BDD
+### Version Controls GIT
+### Problem SOlving
+### React Native/ Cordova ?
+### Functional Programming
+### Test Driven development
+### Regular Expressions
+### How Browser works?
+### RESTful Services and APIs
+### GraphQL
