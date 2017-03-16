@@ -84,10 +84,25 @@ First you should know jQuery but you also know that you shouldn't use it
  - JQuery popular libraries
  - JQuery UI
 
+### Version Controls GIT
+Git is a must. It is really simple but knowing that help you to have more confidence.
+
+  - Clone/push/pull/commit/fetch/reset/init/checkout/revert/log/status/show/branch/diff
+  - Merging vs. Rebasing
+  - .gitignore
+  - Git Hooks
+  - Git Tags
+  - Git remote
+  - Git stash
+  - Don’t Commit Half-Done Work and describe more
+  - git-flow
+
+
+
+
 ### JavaScript Frameworks
 ### TypeScript/Dart/Elm
 ### Testing TDD/ BDD
-### Version Controls GIT
 ### Problem SOlving
 ### React Native/ Cordova ?
 ### Functional Programming
