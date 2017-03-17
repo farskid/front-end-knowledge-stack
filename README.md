@@ -144,6 +144,7 @@ Knowing an alternative of Restful implemented by Facebook.
 Use one of these sites to improve your ability.
 - https://codility.com/
 - https://www.topcoder.com/
+- https://hackerrank.com/
 
 ### Extra knowledge for front-end developers
 The more you know and be confident in above concepts and technologies, the more professional you are.
