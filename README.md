@@ -1,4 +1,4 @@
-Front-End Knowledge
+Front-End Knowledge in 2017
 ===================
 
 
@@ -13,101 +13,142 @@ Front end developers use HTML, CSS, and JavaScript to code the website and web a
 I’ve combed through dozens of front end developer job listings to see which skills are the most in-demand right now. These are the things that real employers are looking for in job applicants today.
 
 ### HTML & CSS
-What should you know about HTMl? Do you think HTML is easy? Remember the majority of taks are based on HTML knowledge.
+What should you know about HTML? Do you think HTML is easy? Remember the majority of taks are based on HTML knowledge.
 
- - HTML 5 differences vs HTML 4
- - HTML 5 APIs
- - DOM
- - Modular Style ( SASS/LESS CSS Preprocessors )
- - GZIP Compression
- - Transitions
- - Gradients
- - Media Queries
- - SVG (It is changable by JavaScript)
- - Web Storage ( SessionStorage, LocalStorage )
- - indexedDB
- - Canvas
- - Cross-origin resource
- - Drag and drop
- - Web Workers
- - Service Workers
- - Cookies
- - Bootstrap, Foundation and Material CSS Frameworks
- - Shadow DOM
- - Position relative, fixed and absolute
- - :before and :after
- - CSS Sprites
- - CSS with OOCSS, SMACSS, and BEM
+- HTML 5 differences vs HTML 4
+- HTML 5 APIs
+- DOM
+- Modular Style ( SASS/LESS CSS Preprocessors )
+- GZIP Compression
+- Transitions
+- Gradients
+- Media Queries
+- SVG (It is changable by JavaScript)
+- Web Storage ( SessionStorage, LocalStorage )
+- indexedDB
+- Canvas
+- Cross-origin resource
+- Drag and drop
+- Web Workers
+- Service Workers
+- Cookies
+- Bootstrap, Foundation and Material CSS Frameworks
+- Shadow DOM
+- Position relative, fixed and absolute
+- :before and :after
+- CSS Sprites
+- CSS with OOCSS, SMACSS, and BEM
 
 ### JavaScript
 ES5, ES6 and ES7 are important. Learn how to code with VanilaJs.
 
- - Closure
- - Non-blocking or Asynchronous I/O
- - Callback
- - Module Pattern
- - Cascading
- - This scope and bind()
- - Curry
- - Inheritance
- - Prototype
- - ES6 new features
- - Arguments
- - Asychronous Programming ( Promise, Async/Await )
- - JSON and Objects
- - Arrow Functions
- - JavaScript string template
- - Class
- - Iterators
- - Generators
- - Symbol
- - Loops
- - What is Array?
- - Self-invoking
- - Inspector of chrome/firefox , debugger and console.log
- - XMLHttpRequest
- - Set
- - Strict Mode
- - let, var and const
- - Event Listeners
- - Reference versus Value variables and Data Types
- - SetInterval
- - SetTimeout
- - Date/Math
+- Closure
+- Non-blocking or Asynchronous I/O
+- Callback
+- Module Pattern
+- Cascading
+- This scope and bind()
+- Curry
+- Inheritance
+- Prototype
+- ES6 new features
+- Arguments
+- Asychronous Programming ( Promise, Async/Await )
+- JSON and Objects
+- Arrow Functions
+- JavaScript string template
+- Class
+- Iterators
+- Generators
+- Symbol
+- Loops
+- What is Array?
+- Self-invoking
+- Inspector of chrome/firefox , debugger and console.log
+- XMLHttpRequest
+- Set
+- Strict Mode
+- let, var and const
+- Event Listeners
+- Reference versus Value variables and Data Types
+- SetInterval
+- SetTimeout
+- Date/Math
+- Decorators
 
 ### jQuery
 First you should know jQuery but you also know that you shouldn't use it
 
- - $
- - On method
- - Ajax
- - JQuery popular libraries
- - JQuery UI
+- $
+- On method
+- Ajax
+- JQuery popular libraries
+- JQuery UI
 
 ### Version Controls GIT
 Git is a must. It is really simple but knowing that help you to have more confidence.
 
-  - Clone/push/pull/commit/fetch/reset/init/checkout/revert/log/status/show/branch/diff
-  - Merging vs. Rebasing
-  - .gitignore
-  - Git Hooks
-  - Git Tags
-  - Git remote
-  - Git stash
-  - Don’t Commit Half-Done Work and describe more
-  - git-flow
+- Clone/push/pull/commit/fetch/reset/init/checkout/revert/log/status/show/branch/diff
+- Merging vs. Rebasing
+- .gitignore
+- Git Hooks
+- Git Tags
+- Git remote
+- Git stash
+- Don’t Commit Half-Done Work and describe more
+- git-flow
 
-
+### Superset languages for JavaScript
+Knowing general knowledge about each superset language is enough. however, you should choose one of them for learning more.
+- TypeScript/Elm/Dart/Flow
 
 
 ### JavaScript Frameworks
-### TypeScript/Dart/Elm
-### Testing TDD/ BDD
-### Problem SOlving
-### React Native/ Cordova ?
-### Functional Programming
-### Test Driven development
-### Regular Expressions
-### How Browser works?
+Learning and have experiences with one of these famous frameworks.
+- React
+- Angular2 or AngularJs
+- Ember
+- Vue
+
+### Testing
+There are thousands of testings, learning few of those are enough. They are so much a like each other.
+- Jasmine
+- Karma
+- Mocha
+- Chai
+- Nightwatch
+- Cucumber
+- Selenium
+
 ### RESTful Services and APIs
+Knowing the definition of Restful APIs.
+- Json return
+- GET/PUT/POST/DELETE standards of restful APIs
+
 ### GraphQL
+Knowing an alternative of Restful implemented by Facebook.
+- GraphQL.js
+- Relay Framework
+- Apollo
+
+### General Questions and Concepts
+- How Browser works?
+- Regular Expressions
+- Functional Programming
+- TDD
+- ATDD
+- BDD
+
+
+### Problem Solving
+Use one of these sites to improve your ability.
+- https://codility.com/
+- https://www.topcoder.com/
+
+### Extra knowledge for front-end developers
+The more you know and be confident in above concepts and technologies, the more professional you are.
+Technologies below are bonus and
+- Mobile Development (ReactNative, Cordova, ...)
+- Desktop Development (Electron)
+- Nodejs Frameworks
+- Databases
